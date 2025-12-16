@@ -39,9 +39,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="45" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=ai&theme=dark" />
-</p> -->
 
 ---
 
