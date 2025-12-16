@@ -63,6 +63,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsal17763&theme=tokyonight" height="160"/>
 </p>
 
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vatsal17763&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vatsal17763&theme=tokyonight" height="160"/>
+</p> -->
+
 ---
 
 ⭐ **Thanks for visiting my profile!**
