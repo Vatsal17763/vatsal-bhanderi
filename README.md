@@ -1,30 +1,61 @@
-Hi there 👋, I'm **Vatsal Bhanderi**
+<h1 align="center">Hi there 👋, I'm Vatsal Bhanderi</h1>
 
- 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Developer;Full+Stack+Web+Learner;Python+Enthusiast;Open+Source+Explorer" />
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25"/>
+---
 
-💻 A passionate developer who loves learning new technologies and building cool projects <br>
-☕ Turning coffee into code <br>
+## 🚀 About Me
+
+💻 A passionate developer who loves learning new technologies and building cool projects  
+☕ Turning coffee into code  
 🌱 Currently growing as a **Full Stack Web Developer** and exploring **Open Source**
 
- 🌱 Currently Learning
+---
 
-* 🧠 Programming Fundamentals
-* 🌐 Web Development
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /> Python Development
+## 🌱 Currently Learning
 
+- 🧠 Programming Fundamentals  
+- 🌐 Web Development  
+- 🐍 Python Development  
 
-🛠 Tech Stack: 
-- 🌐Languages:HTML,CSS,Python
-- 💻Tools: VS Code
-- 🤖AI Tools: Chat Gpt
+---
 
- 🎯 Goals
+## 🛠 Tech Stack
 
-* 🚀 Improve my coding skills every day
-* 🧩 Build meaningful and impactful projects
-* 🌍 Contribute to open-source projects in the future
+### 🌐 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python&theme=dark" />
+</p>
 
+### 💻 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
+</p>
 
-⭐ *Thanks for visiting my profile
+### 🤖 AI Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ai&theme=dark" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- 🚀 Improve my coding skills every day  
+- 🧩 Build meaningful and impactful projects  
+- 🌍 Contribute to open-source projects in the future  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
