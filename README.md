@@ -10,11 +10,11 @@ Hi there 👋, I'm **Vatsal Bhanderi**
 
 * 🧠 Programming Fundamentals
 * 🌐 Web Development
-* 🐍 Python Development
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /> Python Development
 
 
 🛠 Tech Stack: 
-- 🌐Languages: HTML, CSS, Python
+- 🌐Languages: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" />HTML, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" />CSS,<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /> Python
 - 💻Tools: VS Code
 - 🤖AI Tools: Chat Gpt
 
