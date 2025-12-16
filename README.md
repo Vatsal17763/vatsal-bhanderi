@@ -35,9 +35,14 @@
 </p>
 
 ### 🤖 AI Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ai&theme=dark" />
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="25" />
+  ChatGPT
 </p>
+
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=ai&theme=dark" />
+</p> -->
 
 ---
 
