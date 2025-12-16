@@ -4,8 +4,8 @@ Hi there 👋, I'm **Vatsal Bhanderi**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25"/>
 
-💻 A passionate developer who loves learning new technologies and building cool projects
-☕ Turning coffee into code
+💻 A passionate developer who loves learning new technologies and building cool projects <br>
+☕ Turning coffee into code <br>
 🌱 Currently growing as a **Full Stack Web Developer** and exploring **Open Source**
 
  🌱 Currently Learning
