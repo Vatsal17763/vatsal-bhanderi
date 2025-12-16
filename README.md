@@ -36,7 +36,7 @@
 
 ### 🤖 AI Tools
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="45" />
 </p>
 
 <!-- <p align="center">
